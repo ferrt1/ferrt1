@@ -7,12 +7,6 @@ public class Me{
   private Integer age = 21;
   private String country = "Argentina";
   
-  public Me(String name, Integer age, String country){
-    this.name = name;
-    this.age = age;
-    this.country = country;
-  }
-  
   public String education(){
     return "I'm studying a Bachelor's degree in Computer Science";
   }
