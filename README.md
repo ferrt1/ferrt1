@@ -1,16 +1,34 @@
-### Hi there 👋
-
-<!--
-**ferrt1/ferrt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi, Im Fernando 😼
+---
+### About Me
+```java
+public class Me{
+  private String name = "Fernando Trejo"
+  private Integer age = 21;
+  private String country = "Argentina";
+  
+  public Me(String name, Integer age, String country){
+    this.name = name;
+    this.age = age;
+    this.country = country;
+  }
+  
+  public String education(){
+    return "I'm studying a Bachelor's degree in Computer Science";
+  }
+  
+  public String frontEndSkills(){
+    return "HTML, CSS, JavaScript";
+  }
+  
+  public String backEndSkills(){
+    return "Java, JavaScript, MongoDB, MySQL";
+  }
+  
+  public String currentlyLearning(){
+    return "React, Spring";
+  }
+  
+}
+ 
+```
