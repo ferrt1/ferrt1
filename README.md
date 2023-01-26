@@ -25,4 +25,4 @@ public class Me{
   
 }
 ```
-<img src="https://ferrt1.github.io/ferrt1cv/imgs/finalimage.png" alt="Personal Img" heigth="100px"/>
+<a href="https://ferrt1.github.io/ferrt1cv/" target="_blank"><img src="https://ferrt1.github.io/ferrt1cv/imgs/finalimage.png" alt="Personal Img" heigth="100px"/></a>
