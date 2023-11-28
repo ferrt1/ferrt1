@@ -4,7 +4,7 @@
 ```java
 public class Me{
   private String name = "Fernando Trejo"
-  private Integer age = 21;
+  private Integer age = 22;
   private String country = "Argentina";
   
   public String education(){
@@ -12,17 +12,11 @@ public class Me{
   }
   
   public String frontEndSkills(){
-    return "HTML, CSS, JavaScript";
+    return "HTML, CSS, JavaScript, React";
   }
   
   public String backEndSkills(){
-    return "Java, JavaScript, MongoDB, MySQL";
+    return "Java, Python, NodeJS, MongoDB, MySQL, PostgreSQL, Spring";
   }
-  
-  public String currentlyLearning(){
-    return "React, Spring";
-  }
-  
 }
 ```
-<a href="https://ferrt1.com" target="_blank"><img src="https://ferrt1.github.io/ferrt1cv/imgs/finalimage.png" alt="Personal Img" heigth="100px"/></a>
