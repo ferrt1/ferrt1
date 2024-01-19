@@ -12,11 +12,11 @@ public class Me{
   }
   
   public String frontEndSkills(){
-    return "HTML, CSS, JavaScript, React";
+    return "HTML, CSS, JavaScript, React, Angular";
   }
   
   public String backEndSkills(){
-    return "Java, Python, NodeJS, MongoDB, MySQL, PostgreSQL, Spring";
+    return "Java, Python, NodeJS, MongoDB, MySQL, PostgreSQL, Spring, TypeScript";
   }
 }
 ```
