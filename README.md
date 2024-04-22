@@ -4,7 +4,7 @@
 ```java
 public class Me{
   private String name = "Fernando Trejo"
-  private Integer age = 23;
+  private Integer age = 22;
   private String country = "Argentina";
   
   public String education(){
