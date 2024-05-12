@@ -90,7 +90,7 @@ public class Me{
 
 <div align="center">
     <h5> Tools and DataBases </h5>
-  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F4DEC8?logo=JavaScript&logoColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio-F4DEC8?logo=VisualStudio&logoColor=blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F4DEC8?logo=Git">
   <img alt="Static Badge" src="https://img.shields.io/badge/Android%20Studio-F4DEC8?logo=androidstudio">
   <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-F4DEC8?logo=MySQL">
