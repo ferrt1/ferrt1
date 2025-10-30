@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/fermtrejo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://ferrt1.github.io/ferrt/">
+  <a href="https://fert-tau.vercel.app/">
     <img src="https://img.shields.io/badge/Website-3a213b?style=for-the-badge&logo=github" alt="Personal Page"/>
   </a>
 </div>
