@@ -22,7 +22,7 @@
 ```java
 public class Me{
   private String name = "Fernando Trejo";
-  private Integer age = 22;
+  private Integer age = 24;
   private String country = "Argentina";
 }
 ```
@@ -39,14 +39,6 @@ public class Me{
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrt1&theme=dark&hide_border=true&bg_color=00000000&title_color=F4DEC8"
         alt="Github Stats"
       />
-    </td>
-    <td align="center" valign="middle" style="border: none;">
-      <a href="https://git.io/streak-stats">
-        <img
-          src="https://github-readme-streak-stats.herokuapp.com?user=ferrt1&theme=rose&hide_border=true&background=EB545400&fire=F4DEC8&stroke=F4DEC8&currStreakNum=F4DEC8&sideNums=F4DEC8&ring=3A213B&currStreakLabel=F4DEC8&dates=E5E7EB&excludeDaysLabel=F4DEC8&sideLabels=F4DEC8"
-          alt="GitHub Streak"
-        />
-      </a>
     </td>
   </tr>
 </table>
